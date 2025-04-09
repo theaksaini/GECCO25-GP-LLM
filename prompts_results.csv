@@ -1,4 +1,4 @@
-,Task,Austin2021_train,Austin2021_val,Austin2021_both,ChenEqual_train,ChenEqual_val,ChenEqual_both,ChenReturn_train,ChenReturn_val,ChenReturn_both,Sharlin2024_train,Sharlin2024_val,Sharlin2024_both,Wen2024_train,Wen2024_val,Wen2024_both
+,Task,Austin2021_train,Austin2021_val,Austin2021_both,ChenEqual_train,ChenEqual_val,ChenEqual_both,ChenReturn_train,ChenReturn_val,ChenReturn_both,Sharlin2024_train,Sharlin2024_val,Sharlin2024_both,SharlinBars_train,SharlinBars_val,SharlinBars_both
 0,basement,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0
 1,bouncing-balls,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0.0
 2,bowling,9,9,9.0,9,9,9.0,6,6,6.0,10,10,10.0,12,12,12.0
